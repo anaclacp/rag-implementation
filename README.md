@@ -4,8 +4,6 @@ Esta é uma tradução do artigo publicado originalmente no **Medium**:
 
 A tradução busca preservar a clareza e precisão do conteúdo original, facilitando o acesso para falantes de português.
 
-A tradução busca manter a precisão e clareza do conteúdo original, facilitando o acesso à informação para falantes de português.
-
 ## Você Está Fazendo RAG Errado: Como Corrigir a Geração Aumentada por Recuperação (RAG) para LLMs Locais
 
 **Como Configurar o RAG Localmente, Evitar Problemas Comuns e Melhorar a Precisão da Recuperação do RAG.**
