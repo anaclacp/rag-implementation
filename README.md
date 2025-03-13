@@ -1,5 +1,8 @@
 ## Sobre esta tradução  
-Este repositório contém a tradução do artigo ["You're Doing RAG Wrong: How to Fix Retrieval-Augmented Generation for Local LLMs"](https://pub.towardsai.net/youre-doing-rag-wrong-how-to-fix-retrieval-augmented-generation-for-local-llms-37c772f4a824), originalmente publicado no *Towards AI*.  
+Esta é uma tradução do artigo publicado originalmente no **Medium**:  
+["You're Doing RAG Wrong: How to Fix Retrieval-Augmented Generation for Local LLMs"](https://pub.towardsai.net/youre-doing-rag-wrong-how-to-fix-retrieval-augmented-generation-for-local-llms-37c772f4a824).  
+
+A tradução busca preservar a clareza e precisão do conteúdo original, facilitando o acesso para falantes de português.
 
 A tradução busca manter a precisão e clareza do conteúdo original, facilitando o acesso à informação para falantes de português.
 
