@@ -25,14 +25,6 @@ Vou mostrar exatamente como resolvi esses problemas, para que seu sistema RAG re
 
 Ao final, você terá um pipeline RAG 100% local, 100% gratuito e com reconhecimento de contexto, executado com seu LLM local e interface preferidos. Também configuraremos uma base de conhecimento automatizada, para que adicionar novas informações seja simples.
 
-### Antes de começarmos…
-
-Está gostando desta análise detalhada? Veja como você pode ajudar:
-
-*   👏 Aplaudir este artigo — Isso ajuda mais pessoas a encontrá-lo.
-*   🔔 Seguir-me — Eu escrevo sobre IA, programação, ciência de dados e outras tecnologias interessantes. Mais posts como este estão por vir!
-*   💬 Deixe um comentário — Você já lutou com RAG? Encontrou uma maneira melhor de dividir os dados? Vamos conversar!
-
 ### 🧩 Problema RAG #1: Cegueira de Contexto
 
 Digamos que meu banco de dados de vetores contenha plots detalhados de duas séries de filmes radicalmente diferentes: Matrix e O Senhor dos Anéis. Para simplificar, estamos usando pequenos pedaços sem sobreposição.
