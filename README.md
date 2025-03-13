@@ -1,3 +1,5 @@
+## Essa é uma tradução, link do artigo original: https://pub.towardsai.net/youre-doing-rag-wrong-how-to-fix-retrieval-augmented-generation-for-local-llms-37c772f4a824
+
 ## Você Está Fazendo RAG Errado: Como Corrigir a Geração Aumentada por Recuperação (RAG) para LLMs Locais
 
 **Como Configurar o RAG Localmente, Evitar Problemas Comuns e Melhorar a Precisão da Recuperação do RAG.**
