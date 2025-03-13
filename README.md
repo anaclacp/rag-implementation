@@ -6,14 +6,6 @@ A tradução busca preservar a clareza e precisão do conteúdo original, facili
 
 ## Você Está Fazendo RAG Errado: Como Corrigir a Geração Aumentada por Recuperação (RAG) para LLMs Locais
 
-**Como Configurar o RAG Localmente, Evitar Problemas Comuns e Melhorar a Precisão da Recuperação do RAG.**
-
-**DarkBones**
-*Towards AI*
-
-✔️ Quer ir direto para a configuração? Vá para o tutorial.
-✔️ Precisa de uma atualização sobre RAG? Confira meu artigo anterior.
-
 ### RAG Funciona… Até Que Não Funciona
 
 RAG parece ótimo, até você tentar implementá-lo. Então as rachaduras começam a aparecer.
